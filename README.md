@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daksh Sharma</h1>
 <h3 align="center">A passionate Web Developer|Aspiring Cyber Security Engineer</h3>
-<img src="PHOTO.jpeg" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh20031231&label=Profile%20views&color=0e75b6&style=flat" alt="daksh20031231" /> </p>
 
