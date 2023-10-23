@@ -1,4 +1,3 @@
-<img src="Untitled.png" alt="">
 <h1 align="center">Hi 👋, I'm Daksh Sharma</h1>
 <h3 align="center">A passionate Web Developer|Aspiring Cyber Security Engineer</h3>
 <img src="PHOTO.jpeg" alt="">
