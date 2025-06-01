@@ -4,12 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh20031231&label=Profile%20views&color=0e75b6&style=flat" alt="daksh20031231" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<bold>🔭 I’m currently **🚀 B.Tech CSE-Cybersecurity Student| 💻 Freelance Developer | 📘 Jain University Bangalore | 🌐 2022-2026 Hey there! </bold>
+👋 Final-year B.Tech student specializing in Computer Science and Cybersecurity, with a minor in AI/ML, passionate about building secure and scalable software.
 
-- I'm Daksh Sharma, a passionate B.Tech student at Jain University, Bangalore, specializing in Computer Science with a focus on Cybersecurity. Alongside my studies, I thrive as a dynamic freelance developer. This dual role allows me to blend academic rigor with real-world innovation. 🛡️ My excitement lies in the fusion of cybersecurity, development, and data management. I've fine-tuned my development prowess through Udemy, mastering Python, Java, HTML, CSS, and JavaScript. Additionally, I wield a solid grip on DBMS, Node.js, Bootstrap, and WordPress to sculpt seamless websites and applications. 💼 As a freelancer, I've had the privilege of embarking on diverse projects, leveraging my web development finesse to deliver tailor-made solutions. This journey not only expanded my technical know-how but also sharpened my problem-solving acumen in dynamic client environments. 🎓 Jain University has served as a priceless launchpad, furnishing me with an in-depth understanding of computer science, particularly in the realm of cybersecurity. This academic foundation is pivotal in my mission to fortify digital landscapes. 🚀 Looking ahead, I'm determined to amplify my skills in academia and freelancing. I'm excited to contribute meaningfully to the cybersecurity arena, focusing on crafting robust solutions and implementing cutting-edge data management strategies. 🤝 I'm always thrilled to connect with kindred spirits, fellow students, and potential collaborators. Whether you share a similar fervor for technology or envision synergies in our work, I'm eager to dive into enriching conversations.**
+🔐 Interested in blending cybersecurity, web development, and machine learning to solve real-world problems through hands-on projects.
 
-- 🌱 I’m currently learning **Cyber Security and Full stack Development
-
+🚀 Currently working on: SOC Simulator | Phishing Detection Tool | Smart Farming Dashboard
 
 ## Certifications
 
