@@ -20,9 +20,6 @@
 </div>
 
 
-
-<h3 align="left">Tools:</h3>
-
 ## Tools
 
 ### Network
@@ -45,9 +42,21 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Other Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-BurpSuite-ff6633?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+</div>
 
-<h3 align="left">Languages:</h3>
-
+## Languages
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Python-000000?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-000000?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JS-000000?&style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next JS-000000?&style=for-the-badge&logo=Nextjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-000000?&style=for-the-badge&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=SQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mongo DB-000000?&style=for-the-badge&logo=MongoDV&logoColor=white" />
+</div>
 
 
 
