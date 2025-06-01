@@ -21,10 +21,32 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
+
+## Tools
+
+### Network
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-90EE90?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-FFFFE0?&style=for-the-badge&logo=Metasploit&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-FFFFE0?&style=for-the-badge&logo=ActiveDirectory&logoColor=black" />
+</div>
+
+### Endpoint
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Nessus-F5FFFA?&style=for-the-badge&logo=Tenable&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Qualys%20WAS-F08080?&style=for-the-badge&logo=Qualys&logoColor=white" />
+</div>
 
 
+### SIEM
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
 
+
+<h3 align="left">Languages:</h3>
 
 
 
