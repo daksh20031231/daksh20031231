@@ -8,9 +8,7 @@
 
 - I'm Daksh Sharma, a passionate B.Tech student at Jain University, Bangalore, specializing in Computer Science with a focus on Cybersecurity. Alongside my studies, I thrive as a dynamic freelance developer. This dual role allows me to blend academic rigor with real-world innovation. 🛡️ My excitement lies in the fusion of cybersecurity, development, and data management. I've fine-tuned my development prowess through Udemy, mastering Python, Java, HTML, CSS, and JavaScript. Additionally, I wield a solid grip on DBMS, Node.js, Bootstrap, and WordPress to sculpt seamless websites and applications. 💼 As a freelancer, I've had the privilege of embarking on diverse projects, leveraging my web development finesse to deliver tailor-made solutions. This journey not only expanded my technical know-how but also sharpened my problem-solving acumen in dynamic client environments. 🎓 Jain University has served as a priceless launchpad, furnishing me with an in-depth understanding of computer science, particularly in the realm of cybersecurity. This academic foundation is pivotal in my mission to fortify digital landscapes. 🚀 Looking ahead, I'm determined to amplify my skills in academia and freelancing. I'm excited to contribute meaningfully to the cybersecurity arena, focusing on crafting robust solutions and implementing cutting-edge data management strategies. 🤝 I'm always thrilled to connect with kindred spirits, fellow students, and potential collaborators. Whether you share a similar fervor for technology or envision synergies in our work, I'm eager to dive into enriching conversations.**
 
-- 🌱 I’m currently learning **Cyber Security and Full stack Web Development**
-
-- 💬 Ask me about **Rest and SOAP API, Flutter and Cyber Security topics**
+- 🌱 I’m currently learning **Cyber Security and Full stack Development
 
 
 ## Certifications
@@ -20,6 +18,16 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XqRnK0T8T4ijFGYbw3pw2zcYSkd0rAvIwA&s" alt="CND Badge" style="width: 100px;">
     </a>
 </div>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+
+
+
+
 
 
 
@@ -34,10 +42,5 @@
 <a href="https://auth.geeksforgeeks.org/user/daksh20031231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="daksh20031231" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daksh20031231&show_icons=true&locale=en&layout=compact" alt="daksh20031231" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh20031231&show_icons=true&locale=en" alt="daksh20031231" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daksh20031231&" alt="daksh20031231" /></p>
