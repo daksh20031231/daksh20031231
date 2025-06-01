@@ -3,7 +3,6 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh20031231&label=Profile%20views&color=0e75b6&style=flat" alt="daksh20031231" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 👋 Final-year B.Tech student specializing in Computer Science and Cybersecurity, with a minor in AI/ML, passionate about building secure and scalable software.
 
 🔐 Interested in blending cybersecurity, web development, and machine learning to solve real-world problems through hands-on projects.
@@ -62,8 +61,7 @@
 
 
 
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/daksh20031231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daksh20031231" height="30" width="40" /></a>
 <a href="https://fb.com/daksh20031231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daksh20031231" height="30" width="40" /></a>
