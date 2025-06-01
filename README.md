@@ -11,6 +11,20 @@
 - 🌱 I’m currently learning **Cyber Security and Full stack Web Development**
 
 - 💬 Ask me about **Rest and SOAP API, Flutter and Cyber Security topics**
+
+
+## Certifications
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://drive.google.com/file/d/1GbSnT315Cl7DAzXtnKdrGqzvGLnGBXg7/view?usp=sharing">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XqRnK0T8T4ijFGYbw3pw2zcYSkd0rAvIwA&s" alt="CND Badge" style="width: 100px;">
+    </a>
+</div>
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daksh20031231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daksh20031231" height="30" width="40" /></a>
